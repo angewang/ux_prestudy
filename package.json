@@ -1,0 +1,25 @@
+{
+  "name": "ux_prework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angewang/ux_prestudy.git"
+  },
+  "author": "Ange Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angewang/ux_prestudy/issues"
+  },
+  "homepage": "https://github.com/angewang/ux_prestudy#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "jquery": "^3.1.1"
+  }
+}
