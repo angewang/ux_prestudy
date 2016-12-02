@@ -42,7 +42,7 @@ ol.list {
 }
 ol.list > li {
     list-style:decimal; /* Disable the normal item numbering */
-    padding:5px 8px;
+    padding:0px 8px;
 }
 
 table {
