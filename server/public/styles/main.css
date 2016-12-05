@@ -1,5 +1,5 @@
 body {
-    font-family: "Interstate Light", arial, sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
 }
 
 header, footer {
@@ -21,6 +21,7 @@ section h2 {
     text-transform: uppercase;
     font-weight: bold;
     color: #07aa9e;
+    font-family: "Interstate Light", sans-serif;
 }
 
 ol {
@@ -109,6 +110,7 @@ li ol,li ul {
     color: #ffffff;
     font-weight: bold;
     background: #337277; /* originally 07aa9e*/
+    font-family: "Interstate Light", sans-serif;
 }
 
 .header-nav {
@@ -212,7 +214,7 @@ section p, table {
     font-size: 14px;
     color: #07aa9e;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: normal;
     text-align: center;
 }
 /*added by Ange*/
@@ -254,6 +256,7 @@ footer {
     font-size: 18px;
     font-weight: bold;
     margin-left: 42px;
+    font-family: "Interstate Light", sans-serif;
 }
 .sub-content > ul {
     margin: 20px;
