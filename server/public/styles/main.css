@@ -18,7 +18,7 @@ section h2 {
     text-align: center;
     margin: 10px 0 20px 0;
     font-size: 20px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-weight: bold;
     color: #07aa9e;
     font-family: "Interstate Light", sans-serif;
@@ -111,6 +111,9 @@ li ol,li ul {
     font-weight: bold;
     background: #337277; /* originally 07aa9e*/
     font-family: "Interstate Light", sans-serif;
+}
+.title-page img{
+  margin-right: 50px;
 }
 
 .header-nav {
