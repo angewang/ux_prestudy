@@ -160,7 +160,7 @@ section {
 }
 
 .section-3 {
-  background: #337277;
+  background: #07aa9e;
   /* maybe??
   background: #07aa9e;
   */
@@ -215,9 +215,9 @@ section p, table {
     padding: 10px;
     margin-top: 20px;
     font-size: 14px;
-    color: #07aa9e;
+    color: #444;
     text-transform: uppercase;
-    font-weight: normal;
+    font-weight: bold;
     text-align: center;
 }
 /*added by Ange*/
@@ -231,7 +231,7 @@ hr {
 }
 
 footer {
-    color: white;
+    color: black;
 
 }
 .action-type {
